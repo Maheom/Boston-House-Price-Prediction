@@ -16,4 +16,4 @@ To achieve accurate house price predictions, we employ various Machine Learning 
 
 Feel free to explore the project code, dataset, and findings in this repository. We are excited to share our insights and contribute to the field of real estate with accurate house price predictions for the vibrant city of Boston!
 
-Happy predicting! 🏡📈
+
